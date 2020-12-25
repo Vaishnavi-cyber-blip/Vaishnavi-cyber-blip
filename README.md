@@ -4,8 +4,7 @@
 
 - 🔭 My current focus is enhancement of my Python skills. 
 - 🌱 I’m a 2nd year engineering student.
-- 💬 Ask me about Python.
-- 📫 How to reach me: @Vaishna84783419(Twitter) @vaishnavicyberblip(dev)  
+- 💬 Ask me about Python.  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Python was a hobby project.
 
