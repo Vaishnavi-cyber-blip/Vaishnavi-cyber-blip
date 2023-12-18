@@ -3,7 +3,6 @@
 
 
 - 🔭 My current focus is enhancement of my Python skills. 
-- 🌱 I’m a 4th year engineering student.
 - 💬 Ask me about Python.  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Python was a hobby project.
