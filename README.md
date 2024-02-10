@@ -2,7 +2,7 @@
 
 
 
-- 🔭 My current focus is enhancement of my Python skills. 
+- 🔭 My current focus is the enhancement of my Python skills. 
 - 💬 Ask me about Python.  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Python was a hobby project.
