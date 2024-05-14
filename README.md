@@ -6,6 +6,7 @@
 - 💬 Ask me about AI/ML.  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Python was a hobby project.
+- ⚡ Worked at 2 AI based startups.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
